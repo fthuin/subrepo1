@@ -1,0 +1,3 @@
+[submodule "subsubrepo1"]
+	path = subsubrepo1
+	url = https://github.com/fthuin/subsubrepo1.git
